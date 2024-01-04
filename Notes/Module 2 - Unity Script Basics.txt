@@ -1,0 +1,21 @@
+---Unity Script Basics
+
+Creating Scripts
+- Create an empty game object inside the hierarchy.
+- Attach Unity scripts.
+
+To start creating scripts
+- Open unity hub.
+- To create new project, Click on New Project on the top right window.
+- Select blank project, 3D Core.
+- In the bottom, name your project. Here it is named as C#_Script_Basics.
+- Click on Create Project.
+- When you click on Create Project, it will start to load Unity and it will take some time. Unity will open up.
+- Blank project window opens.
+
+There are various windows, Bottom window, Right window...These windows have different names and diffrerent works.
+
+1. Create new script.
+2. Bottom window right click, Choose create, Click on C# Script.
+3. Rename C# Script as Basics.
+4. Press Enter, C# script loads in Visual Studio.
