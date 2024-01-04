@@ -13,7 +13,7 @@ To start creating scripts
 - When you click on Create Project, it will start to load Unity and it will take some time. Unity will open up.
 - Blank project window opens.
 
-There are various windows, Bottom window, Right window...These windows have different names and diffrerent works.
+There are various windows, Bottom window, Right window...These windows have different names and different works.
 
 1. Create new script.
 2. Bottom window right click, Choose create, Click on C# Script.
