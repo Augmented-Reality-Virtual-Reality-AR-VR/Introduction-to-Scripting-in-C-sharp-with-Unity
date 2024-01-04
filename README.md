@@ -1,4 +1,4 @@
-# Introduction-to-Scripting-in-C-with-Unity
+# Introduction-to-Scripting-in-C#-with-Unity
 
 <p align="justify">
 In this course, participants will delve into the foundational principles of scripting using C# in the context of Unity game development. As the backbone of many successful games, scripting is a crucial skill for game developers, and C# has become a preferred language due to its versatility and efficiency. Through hands-on exercises and practical examples, learners will navigate the Unity environment, gradually mastering the syntax and structures of C# scripting. The course places a strong emphasis on building a solid understanding of programming concepts, fostering the ability to create efficient and maintainable code.</p>
