@@ -16,6 +16,6 @@ To start creating scripts
 There are various windows, Bottom window, Right window...These windows have different names and different works.
 
 1. Create new script.
-2. Bottom window right click, Choose create, Click on C# Script.
+2. Bottom window right click, Choose Create, Click on C# Script.
 3. Rename C# Script as Basics.
 4. Press Enter, C# script loads in Visual Studio.
